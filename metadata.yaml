@@ -1,0 +1,42 @@
+_repo: The-World-s-Greatest-Books---Volume-03---Fiction_10748
+_version: 0.0.1
+creator:
+  editors:
+  - agent_name: Mee, Arthur
+    birthdate: 1875
+    deathdate: 1943
+    gutenberg_agent_id: '4518'
+    url: http://www.gutenberg.org/2009/agents/4518
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Mee
+  - agent_name: Hammerton, John Alexander, Sir
+    aliases:
+    - Hammerton, J. A. (John Alexander)
+    - Hammerton, Sir John Alexander
+    birthdate: 1871
+    deathdate: 1949
+    gutenberg_agent_id: '4519'
+    url: http://www.gutenberg.org/2009/agents/4519
+    wikipedia: http://en.wikipedia.org/wiki/John_Alexander_Hammerton
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10748'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Fiction'
+- GITenberg
+tableOfContents: 'Alphonse Daudet: Tartarin of Tarascon -- Thomas Day: Sandford and
+  Merton -- Daniel Defoe: Robinson Crusoe. Captain Singleton -- Charles Dickens: Barnaby
+  Rudge. Bleak House. David Copperfield. Dombey and son. Great expectations. Hard
+  times. Little Dorrit. Martin Chuzzlewit. Nicholas Nickleby. Oliver Twist. Old curiosity
+  shop. Our mutual friend. Pickwick papers. Tale of two cities -- Benjamin Disraeli:
+  Coningsby. Sybil, or the two nations. Tancred, or the new crusade -- Alexandre Dumas:
+  Marguerite de Valois. Black tulip. Corsican brothers. Count of Monte Cristo. The
+  three musketeers. Twenty years after.'
+title: The World's Greatest Books — Volume 03 — Fiction
+url: http://www.gutenberg.org/ebooks/10748
